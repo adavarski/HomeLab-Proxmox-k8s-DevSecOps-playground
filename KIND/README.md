@@ -948,5 +948,9 @@ metallb-system       speaker-rnrhs                                     1/1     R
 
 ```
 $ kind delete cluster --name=devsecops
+
+$ kind delete cluster --name=devsecops
+Deleting cluster "devsecops" ...
+[1]+  Killed                  linkerd viz dashboard
 ```
 
