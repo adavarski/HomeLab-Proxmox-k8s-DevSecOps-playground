@@ -13,7 +13,7 @@ Production-like On-Prem Kubernetes cluster.
 
 #### [(OPTIONAL DevSecOps ENV) Pentest KIND local environment (laptop)](./KIND/README.md).
 
-Kind (Kubernetes-in-Docker) https://kind.sigs.k8s.io : It runs
+Kind (Kubernetes IN Docker) https://kind.sigs.k8s.io : It runs
 Kubernetes clusters in Docker containers. It supports multi-node
 clusters as well as HA Clusters (High-Availability). It is a new project that aims to bring dockerized K3s. 
 We can use this to build cluster on local dev environment. 
