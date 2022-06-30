@@ -6,6 +6,12 @@ References:
 - ServiceMesh: Linkerd/mTLS: https://linkerd.io/2.11/getting-started/
 - LoadBalancer:  https://kind.sigs.k8s.io/docs/user/loadbalancer/
 
+<img src="pictures/KIND-diagram.png?raw=true" width="800">
+
+- Source: https://github.com/kubernetes-sigs/kind (https://github.com/kubernetes-sigs/kind/tree/main/images/base)
+- Kind in CI: https://github.com/kind-ci/examples
+
+
 ### Install KIND
 ```
 ### Install docker, kubectl, etc.
