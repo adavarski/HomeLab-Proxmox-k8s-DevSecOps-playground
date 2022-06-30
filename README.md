@@ -16,7 +16,7 @@ Production-like On-Prem Kubernetes cluster.
 Kind (Kubernetes IN Docker) https://kind.sigs.k8s.io : It runs
 Kubernetes clusters in Docker containers. It supports multi-node
 clusters as well as HA Clusters (High-Availability). KIND or kubernetes in docker is a suite of tooling for local Kubernetes “clusters” where each "node" is a Docker container. KIND is targeted at testing Kubernetes. It is a new project that aims to bring dockerized K3s. 
-So we use KIND to build k8s "cluster" on local dev environment. KIND also suport differnt CNI:Calico, Culium, etc., so we also can test Network policies locally.
+So we will use KIND to build k8s "cluster" on local development environment. KIND also suport differnt CNI:Calico, Culium, etc., so we also can test Network policies locally.
 
 Note: We can also setup managed-k8s private clusters for this DevSecOps playground 
 
