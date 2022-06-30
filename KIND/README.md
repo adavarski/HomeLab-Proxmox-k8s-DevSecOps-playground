@@ -13,7 +13,7 @@ References:
 
 <img src="./KIND-diagram.png?raw=true" width="800">
 
-- Source: https://github.com/kubernetes-sigs/kind (https://github.com/kubernetes-sigs/kind/tree/main/images/base)
+- KIND Source: https://github.com/kubernetes-sigs/kind (https://github.com/kubernetes-sigs/kind/tree/main/images/base)
 
 
 ### Install KIND
