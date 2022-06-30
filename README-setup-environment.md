@@ -1594,4 +1594,10 @@ kubeadm join k8s.internal.example.cloud:6443 --token lsyfux.r8u8yba4ourszixz \
 - https://www.jfrog.com/confluence/display/RTF4X/Getting+Started+with+Docker+and+Artifactory
 - https://cloud.redhat.com/blog/top-open-source-kubernetes-security-tools-of-2021
 - https://www.magalix.com/blog/kubernetes-patterns-the-service-discovery-pattern
+- https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/
+- https://devops.stackexchange.com/questions/9483/how-can-i-add-an-additional-ip-hostname-to-my-kubernetes-certificate
+- https://medium.com/@metahertz/single-node-k3os-rook-ceph-howto-a50652f7133d
+- https://rook.github.io/docs/rook/latest/Getting-Started/quickstart/
+- https://goharbor.io/docs/2.5.0/install-config/download-installer/
+- https://gist.githubusercontent.com/kacole2/95e83ac84fec950b1a70b0853d6594dc/raw/ad6d65d66134b3f40900fa30f5a884879c5ca5f9/harbor.sh
 
