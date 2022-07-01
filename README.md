@@ -2097,3 +2097,5 @@ This is an (at the moment) random list of things to think about when architectin
 - Kubernetes auditing is not enabled by default.
 - Allowing direct access to the kubelet API effectively bypasses auditing, so care should be taken in allowing this.
 - Whilst audit logging provides the user who made the request it doesn't log the authentication mechanism used. As such if there are multiple configured authentication mechanisms (e.g. certificate authentication and OIDC) there is a risk that an attacker can create a user account which would appear to be that of another legitimate user.
+
+REF: [Kubernetes Hardening Guide](https://github.com/adavarski/HomeLab-Proxmox-k8s-DevSecOps-playground/blob/main/DevSecOps-K8S/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF)
